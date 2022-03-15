@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<HTML>
+<body>
 <link type="text/css" rel="stylesheet" href="https://ekhalfin01.bugfocus.com/clientweb/chat-client-v4/css/form.css">
 <script type="text/javascript">
     SERVICE_PATTERN_CHAT_CONFIG = {
@@ -17,3 +19,5 @@
     };
 </script>
 <script src="https://ekhalfin01.bugfocus.com/clientweb/chat-client-v4/js/init.js"></script> 
+</body>
+</HTML>
